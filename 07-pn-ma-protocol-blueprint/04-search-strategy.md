@@ -72,7 +72,24 @@ Issues to address:
 
 **For your review:** All three are relevant. The existing Lampridou and Kream reviews have extensive reference lists that will likely identify studies your database search misses.
 
-### 4.5 PRISMA-P Requirements
+### 4.5 Language Restrictions — The Honest Approach
+
+**The default in most PROSPERO protocols should be English-only for operational reasons**, not aspirational "no language restrictions" statements. Here are three honest approaches:
+
+1. **English-only (recommended for solo/small-team reviews):** "Published in English. This is an operational restriction: the review team does not have translation resources. This will be acknowledged as a limitation in the completed review."
+2. **English + specific languages with team capacity:** "English, [Language X], [Language Y]. The review team includes native speakers of these languages."
+3. **No language restriction (only if truly resourced):** "No language restrictions. Non-English articles will be translated using [institutional translation service / DeepL Pro / bilingual co-authors]."
+
+**The Cochrane Handbook (Chapter 4, Section 4.4.3):** Language restrictions can introduce bias, but the direction and magnitude vary by field. For aesthetic derm, a restriction to English may exclude studies from Korea, Japan, and Italy — countries with active aesthetic research communities but journals in local languages. If you choose English-only, **acknowledge this specifically** in the limitations of your completed review.
+
+### 4.6 Search Filters
+
+For aesthetic derm, use:
+- **RCT filter:** Cochrane Highly Sensitive Search Strategy (sensitivity-maximising version) for PubMed
+- **Derm filter:** Search for aesthetic terms in [tiab] and [MeSH] — note that MeSH for new treatments is often incomplete (e.g., "polynucleotides" may not have a MeSH term). Always include both MeSH and free-text terms.
+- **Test MeSH terms before freezing:** Run `"polynucleotides"[MeSH]` in PubMed to verify existence.
+
+### 4.7 PRISMA-P Requirements
 
 PRISMA-P item 9 specifies:
 > "Present the planned search strategy in sufficient detail to be reproducible, including the planned search terms, databases, and any limits or filters."

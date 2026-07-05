@@ -130,6 +130,26 @@ Name the software and packages you'll use. This shows you've thought about imple
 >
 > **Software:** All analyses will be conducted in R (version 4.x) using the `meta` (Schwarzer, 2024) and `metafor` (Viechtbauer, 2010) packages. RevMan 5.4 (Cochrane) will be used for forest plot generation if needed. The metafor package will be used for meta-regression. All code will be made available as supplementary material.
 
+### 8.7 The SWiM Framework for Narrative Synthesis
+
+The SWiM (Synthesis Without Meta-analysis) guidelines (Campbell et al., BMJ 2020, doi:10.1136/bmj.l6890) should be referenced if narrative synthesis is needed. Pre-specify:
+
+> **SWiM Item 1 — Grouping:** Studies grouped by (a) PN formulation (PN-HPT vs standard PN vs PDRN), (b) treatment area (periorbital, full-face, neck), (c) comparator type (placebo, HA, other).
+>
+> **SWiM Item 2 — Standardised metric:** Proportion of patients achieving ≥1-point GAIS improvement. If ≥3 studies report this, it's the primary narrative focus.
+>
+> **SWiM Item 3 — Synthesis method:** No vote-counting for N<15/arm. Structured narrative comparing effect sizes, CIs, and study characteristics.
+>
+> **SWiM Item 4 — Data presentation:** Structured tables per outcome group with study characteristics, effect estimate (95% CI), RoB, direction of effect.
+
+### 8.8 Meta-Analysis Decision Tree
+
+> **Meta-analysis performed if:** ≥2 studies report the same outcome at a comparable time point, sufficient clinical homogeneity, and data obtainable.
+>
+> **Narrative synthesis (SWiM) if:** insufficient studies, excessive heterogeneity (I² > 75% post-subgrouping), or incompatible outcome measures.
+>
+> **Decision rule:** If I² > 75% after subgroup analysis and sensitivity exploration, and direction of effect is inconsistent across subgroups, pooling is abandoned for narrative synthesis.
+
 ---
 
 *References:*

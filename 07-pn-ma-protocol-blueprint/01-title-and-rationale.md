@@ -28,6 +28,24 @@ Looking at the 6 PROSPERO records in this repo, titles fall into two patterns:
 
 **For your protocol:** You are doing a meta-analysis. Include "meta-analysis" in the title. Pattern A gives you the strongest signal. The existing Lampridou SR is narrative-only; your explicit "meta-analysis" in the title immediately differentiates you.
 
+**What gets accepted — three viable title formats:**
+
+1. **Cochrane-style question format** (preferred for most clinical SRs):
+   > "Polynucleotides for facial rejuvenation: a protocol for a systematic review and meta-analysis of randomised controlled trials"
+
+2. **Descriptive with PICO elements** (common in PROSPERO):
+   > "Efficacy and safety of injectable polynucleotides versus hyaluronic acid fillers for nasolabial fold correction: a systematic review protocol"
+
+3. **PICO-in-title** (explicit, use when your PICO is tight):
+   > "Split-face randomised controlled trials of polynucleotide-based skin boosters for facial rejuvenation: a systematic review and meta-analysis protocol"
+
+**What gets flagged:**
+- **Missing "protocol"** — most common PROSPERO return item. The word MUST appear.
+- **>250 characters** — PROSPERO truncates. Keep under 200.
+- **Over-promising "meta-analysis"** — if you're uncertain whether data will permit pooling, use "systematic review protocol" alone. Adding "meta-analysis" that doesn't materialise becomes a peer review issue.
+
+**For your protocol:** You ARE doing a meta-analysis, so include it.
+
 ### 1.2 Writing the Rationale / Background
 
 **What makes a rationale convincing?**
@@ -47,7 +65,16 @@ The 6 examples show three components that PROSPERO accepts as sufficient:
 
 **Common mistake #2:** Not explicitly naming the existing SRs and explaining why they're insufficient. This is especially critical in your case because TWO SRs already exist (Lampridou 2025, Kream 2026). If you don't convincingly argue why another is needed, an informed reader will ask "why aren't these enough?"
 
-**Common mistake #3:** Claiming "no systematic review exists" when one does. This is factual inaccuracy and got the Lampridou record flagged with a version update. Be honest about what exists and precise about what's missing.
+**The "gap trap" — how to justify a review when 2 SRs already exist:**
+
+When prior SRs exist, your justification cannot be "no SR exists." You need a specific, defensible gap. Here's what works vs what gets rejected:
+
+| Weak justification (rejected) | Strong justification (accepted) |
+|-------------------------------|--------------------------------|
+| "No systematic review has been conducted" | "Existing SRs pooled at the formulation level. No SR has analysed by PN formulation type (PN-HPT vs standard PN vs PDRN) or by outcome measurement instrument" |
+| "The literature has grown since the last review" | "Since the last SR (2025), at least 4 new RCTs have been published (PubMed search, 2026), including 2 split-face trials, increasing the pool of meta-analysable data" |
+| "Previous reviews did not assess risk of bias" | "Prior SRs used CASP checklists (descriptive). Our protocol specifies domain-based RoB 2 for RCTs and ROBINS-I for non-randomised studies, with pre-specified split-face adaptations" |
+| "The evidence is unclear" | "The existing SRs could not perform meta-analysis due to heterogeneity in outcome instruments. Recent trials have adopted GAIS as a standardised primary outcome, enabling meaningful pooling where previously only narrative synthesis was possible" |
 
 **The gap argument for your protocol:**
 
