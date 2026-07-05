@@ -123,6 +123,31 @@ If you PLAN to publish (which you do — J Cosmet Dermatol or Dermatol Surg), sa
 >
 > **Data sharing:** The full dataset, extraction forms, and analysis code will be made available as supplementary material or via a public repository (e.g., Open Science Framework, GitHub).
 
+### 9.5 PROSPERO Common Errors — Avoid These
+
+Based on analysis of PROSPERO audit outcomes, here are the most common errors that cause returns or weaken submissions (adapted from Rombey et al., J Clin Epidemiol 2020):
+
+**Critical errors (causes return/rejection):**
+1. No funding/COI statement — field #11–12 mandatory; write "No funding received" + "All authors declare no competing interests"
+2. No minimum follow-up duration defined in eligibility criteria
+3. No language strategy — PROSPERO expects clarity; "Published in English" is operational and honest
+4. Incomplete/untested search strings — provide EXACT PubMed string with [MeSH] + [tiab] and test against positive controls
+5. No search date range — "From inception to [date]"
+6. No pilot extraction described — "Form piloted on 5 studies"
+7. Over-promising meta-analysis when data unlikely to permit it — "Narrative synthesis if <3 studies or high heterogeneity"
+8. No GRADE — required for intervention SRs
+9. Missing RoB tool specification — generic "Cochrane tool" insufficient; name RoB 2 / ROBINS-I
+10. No outcome-time matrix — create a table mapping each outcome to primary/secondary timepoints
+
+**Moderate errors (weaken protocol):**
+11. Third reviewer not secured — state "disagreements resolved by discussion; senior author makes final determination"
+12. Vague database descriptions — name each database and justify selection
+13. Single-arm and comparative studies not separated in analysis
+14. No publication bias plan
+15. No sensitivity analysis plan
+16. Conference abstract policy not addressed
+17. No data extraction items list
+
 ---
 
 *References:*

@@ -59,7 +59,19 @@ Domain 4 (Outcome measurement) is critical — split-face studies typically blin
 
 The fail-safe N approach (#4) adds an extra layer that demonstrates robustness.
 
-### 7.4 Certainty of Evidence (GRADE)
+### 7.4 Certainty of Evidence (GRADE) — Aesthetic Outcome Challenges
+
+GRADE assessment in aesthetic dermatology faces 4 specific challenges that should be acknowledged in your protocol:
+
+1. **Patient-reported vs clinician-reported outcomes** — Patient-reported outcomes (satisfaction, FACE-Q) start at lower certainty due to subjectivity and risk of unblinding. Recommendation: GRADE for objective/clinician-rated outcomes; narrative summary for patient-reported experience.
+
+2. **Split-face correlation inflates precision** — Paired analyses from split-face studies give narrower CIs than parallel-group equivalents. Pre-specify: "Within-patient correlation (ICC) will be reported; paired analysis accounting for within-patient correlation."
+
+3. **Surrogate vs patient-important outcomes** — Many aesthetic outcomes are surrogate measures (skin elasticity, melanin index, wrinkle depth). GRADE starts at lower certainty for surrogate outcomes. Pre-specify which outcomes are "critical" (must be patient-important: GAIS, satisfaction, safety) vs "important" (objective biophysical measures).
+
+4. **Small sample sizes** — Most aesthetic derm RCTs have N = 20–60. Optimal Information Size (OIS) is rarely met. Expected GRADE rating: Low to Very Low for most evidence. Acknowledge this in the protocol — it demonstrates realistic expectations.
+
+The SWiM guidelines (Campbell et al., BMJ 2020, doi:10.1136/bmj.l6890) are recommended for narrative synthesis when meta-analysis is not possible.
 
 **What the examples do:**
 - #2 Collagen: explicit GRADE plan (high/moderate/low/very low) — best practice

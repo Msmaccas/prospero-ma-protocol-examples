@@ -92,6 +92,28 @@ The Explanation & Elaboration paper (Shamseer et al., BMJ 2015) emphasizes: **"T
 >
 > **The gap:** Since the publication of these reviews, additional controlled trials have been published, and sufficient data have accumulated across multiple split-face and parallel-group RCTs using validated outcome measures (Global Aesthetic Improvement Scale, Cutometer elasticity measurements, VISIA imaging parameters). A quantitative synthesis of PN efficacy for skin rejuvenation — specifically, the pooled effect size across comparable outcomes — has not been performed. The present review aims to address this gap by conducting a meta-analysis of randomized and split-face controlled trials evaluating injectable polynucleotides for skin rejuvenation outcomes.
 
+### 1.5 Lessons from the Lampridou 2025 PN Review (Your Direct Predecessor)
+
+The existing PN SR by Lampridou et al. (*J Cosmet Dermatol* 2025, PMID: 39645667) is your closest comparator. Studying its PROSPERO record (#3 in this repo) and published paper reveals:
+
+**What they did well:**
+- Clear, focused PICO question
+- PROSPERO-registered prospectively (CRD42024588712)
+- Honest language restriction ("published in English")
+- Narrative synthesis (did not over-promise MA they couldn't deliver)
+
+**7 areas your protocol improves upon:**
+
+| # | Lampridou 2025 | Your Protocol |
+|---|----------------|---------------|
+| 1 | CASP checklists (generic) | RoB 2 + ROBINS-I (domain-based) |
+| 2 | No GRADE | GRADE pre-specified |
+| 3 | No synthesis decision rule | "MA if ≥2 studies; otherwise SWiM narrative" |
+| 4 | No outcome-time matrix | Pre-specified primary time point (3 months) + sensitivity time points |
+| 5 | No split-face methodology | Explicit paired data handling with correlation imputation |
+| 6 | No publication bias plan | Funnel plot, Egger's test, trim-and-fill, fail-safe N |
+| 7 | No sensitivity analysis | Leave-one-out, RoB-stratified, fixed-effects comparison |
+
 ---
 
 *References:*
